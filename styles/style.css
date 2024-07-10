@@ -1,0 +1,172 @@
+.baskervville-sc-regular {
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: bold;
+  }
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 25px 50px;
+}
+.nav-about{
+    font-weight: 700;
+    font-size: 45;
+}
+nav ul li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav li a{
+    text-decoration: none;
+}
+.likha{
+    color:black;
+}
+nav ul{
+    display: flex;
+}
+.tstylee{
+    color:darkcyan;
+}
+.p-banner-head{
+    .ubuntu-bold-italic {
+        font-family: "Ubuntu", sans-serif;
+        font-size: larger;
+        font-style: italic;
+      }
+     text-align: center;
+}
+.chobi{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 25%;
+}
+.banner{
+    background-image: url(../image/Hero-bg.png);
+}
+.why-title{
+    font-size: 40px;
+    font-weight: bold;
+    color:black;
+}
+.why-descpt{
+    font-size: 20px;
+    color: darkblue;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.bnr-descrip{
+    text-align: center;
+    font-size: large;
+}
+.btn-prothom{
+    text-align: center;
+}
+.why{
+    background-color: aliceblue ;
+    border-radius: 10px;
+    padding: 60px 100px;
+    text-align: center;
+    margin-top: 100px;
+}
+.why-items{
+ background-color: white;
+}
+.para1-img{
+    width: 200px;
+}
+.para1{
+    display: flex;
+    justify-content: space-between;
+}
+.para2{
+    display: flex;
+    justify-content: space-between;
+}
+.para2-img{
+    width: 200px;
+}
+.para3{
+    display: flex;
+    justify-content: space-between;
+}
+.para3-img{
+    width: 200px;
+}
+.s2-title{
+    text-align: center;
+}
+.video{
+    text-align: center;
+}
+.ct{
+    text-align: center;
+}
+.container1{
+    background-color: rgb(248, 239, 225);
+    padding: 20px 10px;
+}
+.container2{
+    background-color: aliceblue ;
+    padding: 20px 10px;
+}
+.container3{
+    background-color: rgb(243, 227, 222);
+    padding: 20px 10px;
+}
+.target-container{
+    text-align: center;
+    width: 1140px;
+    display: flex;
+    justify-content: space-between;
+}
+.learnmore{
+    color:black
+}
+.next1{
+    border-style: ridge;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.next2{
+    border-style: ridge;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.next3{
+    border-style: ridge;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.support{
+    background-image: url(../image/handshake.jpg);
+   height: 700px;
+   width:1140px;
+}
+.s-title{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+.from{
+    text-align: center;
+}
+nav{
+    display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 25px 50px;
+}
+.btn-prothom{
+    text-align: center;
+}
